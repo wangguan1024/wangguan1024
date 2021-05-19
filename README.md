@@ -1,4 +1,5 @@
 ### 我挥舞着键盘和本子，发誓要把世界写个明明白白！✨✨
+### I swear to understand the world deeply through the dancing codes on my keyboard!
 
 <!--
 **wangguan1024/wangguan1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
